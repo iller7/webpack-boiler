@@ -1,18 +1,18 @@
 ## React ESLint Webpack Playground
 
 Playing around with webpack and eslint in order to get a lean, quick boilerplate going.
+To be used for training and demoing to junior/mids
 
-### Project Name/Intro
+### Areas to cover
 
-- Describe very briefly but clearly what the project does.
-- State if it is out-of-the-box user-friendly, so it’s clear to the user.
-- List its most useful/innovative/noteworthy features.
-- State its goals/what problem(s) it solves.
-- Note and briefly describe any key concepts (technical, philosophical, or both) important to the user’s understanding.
-- Link to any supplementary blog posts or project main pages.
-- Note its development status.
-- Include badges.
-- If possible, include screenshots and demo videos.
+- Getting started with ESLint
+- Using Webpack
+- Hooking into Git
+- Transpiling and Babel
+- React Best Practices
+- Intro to PropTypes
+- Understanding this
+- JavaScript call, apply & bind
 
 ### Core Technical Concepts/Inspiration
 
